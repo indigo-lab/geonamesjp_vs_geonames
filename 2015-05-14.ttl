@@ -1545,7 +1545,7 @@ gnjp:兵庫県揖保郡  owl:sameAs  <http://sws.geonames.org/1862022/> .
 gnjp:兵庫県揖保郡太子町  owl:sameAs  <http://sws.geonames.org/1851208/> .
 gnjp:兵庫県明石市  owl:sameAs  <http://sws.geonames.org/1865470/> .
 gnjp:兵庫県朝来市  owl:sameAs  <http://sws.geonames.org/7370818/> .
-gnjp:兵庫県朝来郡朝来町  owl:sameAs  <http://sws.geonames.org/1865050/> .
+gnjp:兵庫県朝来郡  owl:sameAs  <http://sws.geonames.org/1865050/> .
 gnjp:兵庫県洲本市  owl:sameAs  <http://sws.geonames.org/7370810/> .
 gnjp:兵庫県淡路市  owl:sameAs  <http://sws.geonames.org/7370819/> .
 gnjp:兵庫県神崎郡  owl:sameAs  <http://sws.geonames.org/7370808/> .
@@ -1928,7 +1928,7 @@ gnjp:高知県高岡郡中土佐町  owl:sameAs  <http://sws.geonames.org/185576
 gnjp:高知県高岡郡佐川町  owl:sameAs  <http://sws.geonames.org/7405908/> .
 gnjp:高知県高岡郡四万十町  owl:sameAs  <http://sws.geonames.org/7405913/> .
 gnjp:高知県高岡郡日高村  owl:sameAs  <http://sws.geonames.org/7405911/> .
-gnjp:高知県高岡郡梼原町  owl:sameAs  <http://sws.geonames.org/7405910/> .
+gnjp:高知県高岡郡檮原町  owl:sameAs  <http://sws.geonames.org/7405910/> .
 gnjp:高知県高岡郡津野町  owl:sameAs  <http://sws.geonames.org/7405912/> .
 gnjp:高知県高岡郡越知町  owl:sameAs  <http://sws.geonames.org/7405909/> .
 gnjp:高知県高知市  owl:sameAs  <http://sws.geonames.org/1859127/> .
