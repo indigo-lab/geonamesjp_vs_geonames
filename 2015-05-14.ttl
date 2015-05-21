@@ -11,7 +11,7 @@
         dcterms:created     "2015-05-13"^^xsd:date ;
         dcterms:creator     "Indigo Corporation" ;
         dcterms:license     <http://creativecommons.org/licenses/by-sa/4.0/> ;
-        dcterms:modified    "2015-05-14"^^xsd:date ;
+        dcterms:modified    "2015-05-21"^^xsd:date ;
         void:linkPredicate  owl:sameAs ;
         void:target         [ a              void:Dataset ;
                               rdfs:label     "GeoNames.org" ;
@@ -924,7 +924,7 @@ gnjp:神奈川県相模原市南区  owl:sameAs  <http://sws.geonames.org/185329
 gnjp:神奈川県相模原市緑区  owl:sameAs  <http://sws.geonames.org/1857128/> .
 gnjp:神奈川県秦野市  owl:sameAs  <http://sws.geonames.org/1863429/> .
 gnjp:神奈川県綾瀬市  owl:sameAs  <http://sws.geonames.org/1864864/> .
-gnjp:神奈川県茅ケ崎市  owl:sameAs  <http://sws.geonames.org/1864622/> .
+gnjp:神奈川県茅ヶ崎市  owl:sameAs  <http://sws.geonames.org/1864622/> .
 gnjp:神奈川県藤沢市  owl:sameAs  <http://sws.geonames.org/1864091/> .
 gnjp:神奈川県足柄上郡  owl:sameAs  <http://sws.geonames.org/1865011/> .
 gnjp:神奈川県足柄上郡中井町  owl:sameAs  <http://sws.geonames.org/7470892/> .
